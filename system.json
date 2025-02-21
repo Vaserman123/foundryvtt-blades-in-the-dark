@@ -9,7 +9,7 @@
   },
   "background": "systems/blades-in-the-dark/images/BITD_title.webp",
   "url": "https://github.com/Dez384/foundryvtt-blades-in-the-dark/",
-  "manifest": "https://raw.githubusercontent.com/Dez384/foundryvtt-blades-in-the-dark/master/system.json",
+  "manifest": "https://github.com/Vaserman123/foundryvtt-blades-in-the-dark/blob/master/system.json",
   "download": "https://github.com/Dez384/foundryvtt-blades-in-the-dark/archive/refs/tags/v6.0.1.zip",
   "authors": [
     { "name": "megastruktur" },
